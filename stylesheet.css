@@ -76,7 +76,7 @@ a{
    margin: 0 auto;
 }
 .jumbotron{
-  background-image: url("img/coffee_shop1.png");
+  background-image: url("coffee_shop1.png");
   background-size: cover;
   height: 700px;
 
@@ -128,7 +128,7 @@ a{
 .main2{
   padding-bottom: 150px;
   text-align: center;
-  background-image: url(img/background2-kopi.png);
+  background-image: url(background2-kopi.png);
   background-size: cover;
 }
 
