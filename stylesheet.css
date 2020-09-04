@@ -128,7 +128,7 @@ a{
 .main2{
   padding-bottom: 150px;
   text-align: center;
-  background-image: url(background2-kopi.png);
+  background-image: url("background2-kopi.png");
   background-size: cover;
 }
 
